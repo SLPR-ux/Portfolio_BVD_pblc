@@ -1,0 +1,9 @@
+@import url('https://fonts.cdnfonts.com/css/godofwar');
+@import url("reset.css");
+body {
+    font-family: 'GodOfWar', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1e1e1e;
+    color: #fff;
+}
