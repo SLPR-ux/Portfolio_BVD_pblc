@@ -2,9 +2,7 @@
 @import url("reset.css");
 body {
     font-family: 'GodOfWar', sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #1e1e1e;
+    background-color: #696969;
     color: #fff;
 }
 
